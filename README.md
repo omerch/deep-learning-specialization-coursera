@@ -72,6 +72,7 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 4 - Art Generation with Neural Style Transfer - v2.ipynb](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/3.%20Convolutional%20Neural%20Networks/Neural%20Style%20Transfer/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
 
 - **Course 5: Sequence Models**
+  
   Objectives:
   + Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
   + Be able to apply sequence models to natural language problems, including text synthesis.
